@@ -3,5 +3,6 @@ hyprspace
 result
 result-*
 .data/
-*_generated.go
+#*_generated.go
 .direnv/
+.idea
